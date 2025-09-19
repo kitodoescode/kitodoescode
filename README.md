@@ -8,4 +8,6 @@
 ## languages (da ones im best at)
 - cpp
 - cs
-- xaml
+- xaml  
+
+note - check out my server @ https://discord.gg/skidding
