@@ -1,4 +1,4 @@
-# hey, kito
+# hey, im kito
 
 ## some info about me
 - dumbass
