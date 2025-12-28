@@ -3,7 +3,7 @@
 ## some info about me
 - dumbass :D
 - i like to code >.<
-- learning game hacking and reversing :o
+- learning game hacking and reverse engineering :o
 
 ## languages (da ones im best at)
 - cpp
